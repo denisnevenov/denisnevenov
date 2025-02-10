@@ -4,6 +4,7 @@
 - ⚡ More than 12 years as a Frontend developer worked for 2 companies with HTML/CSS/jQuery and Bootstrap
 - ⚡ Experienced in Responsive designs, best SEO practices and browser compatibility
 - ⚡ I have done a lot of PSD to HTML designs, email templates and various one page projects
+- ⚡ I have done also very big company websites, CMS, Website Builder/Editor and different components
 - ⚡ I'm mostly using Photoshop, Figma, Chrome DevTools, Sublime Text and Visual Studio Code
 
 
