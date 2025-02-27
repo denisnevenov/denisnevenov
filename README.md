@@ -9,8 +9,8 @@
 - ⚡ I'm mostly using Photoshop, Figma, Chrome DevTools, Sublime Text and Visual Studio Code
 
 - 🌐 My personal projects
-- 🌐 A landing page - https://denisnevenov.github.io/
-- 🌐 Cartoon Character - https://crocwithknife.fun/
+- 🌐 https://denisnevenov.github.io/ - A landing page made with HTML5/CSS3/JavaScript and Bootstrap 5 
+- 🌐 https://crocwithknife.fun/ - Small website made with HTML5/CSS3/JavaScript
 
 <!---
 denisnevenov/denisnevenov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
