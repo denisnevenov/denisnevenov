@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @denisnevenov
-- 👀 I’m interested in Frontend developement with HTML/CSS and React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Frontend developement with HTML/CSS and JavaScript
+- 🌱 I’m currently learning Vue.js/React
 - ⚡ More than 12 years as a Frontend developer worked for 2 companies with HTML/CSS/jQuery and Bootstrap
 - ⚡ Experienced in Responsive designs, best SEO practices and browser compatibility
 - ⚡ I have done a lot of PSD to HTML designs, email templates and various one page projects
