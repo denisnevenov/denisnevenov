@@ -10,7 +10,6 @@
 
 - 🌐 My personal projects
 - 🌐 https://denisnevenov.github.io/ - I designed a responsive landing page and coded it with HTML5, CSS3, JavaScript and Bootstrap 5.
-- 🌐 https://crocwithknife.fun/ - I designed a small responsive website about a croc token and coded it with HTML5, CSS3 and JavaScript.
 - 🌐 https://denisnevenov.github.io/creative-design/ - I coded a responsive landing page with HTML5, SCSS and JavaScript.
 
 <!---
